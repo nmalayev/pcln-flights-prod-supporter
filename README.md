@@ -4,7 +4,7 @@ A browser extension automation toolset designed to assist with Pricline's Flight
 
 ### To Install
 
-- Download `build.zip` from the [releases page](https://github.com/unscsprt/pcln-random-search/releases)
+- Download `build.zip` from the [releases page](https://github.com/nmalayev/pcln-flights-prod-supporter/releases)
 - Unzip the folder in your desired location (rename it if you'd like)
 - Access Chrome extensions by visiting [chrome://extensions](chrome://extensions)
 - Ensure that `Developer mode` is enabled in the top right
